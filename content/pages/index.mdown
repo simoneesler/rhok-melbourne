@@ -1,0 +1,29 @@
+Title: RHoK Melbourne
+Link text: Home
+
+Enter Random Hacks of Kindness Melbourne and join other experts in design and development and volunteers with a broad set of skills in software development and design. The goal is to produce practical open source solutions to development problems related to disaster risk, major crisis (like bushfires, floods and earthquakes), and the challenges of climate change.
+
+# RHoK #5
+Here's an outline of how RHOK Melbourne will run. We'll clear as much time for actual development, and keep the speechifying and admin to a bare minimum.
+
+## Saturday June 4
+
+* 9.00 – 9.30 Get set up, and ready for 2 great days
+* 9.30 – 9.45 Welcome and administrivia
+* 9.45 - 10.30 Choosing problem areas to work on, and teams to work with
+* 11.00 - 19.00 start your hacking  
+* 19.00 – 20.00 Dinner (on us)
+* 20.00 – 02.00 more time to design and develop
+
+We'll have light snacks, fruit, drinks and the like on hand to keep your blood sugar levels up. There are many great local cafes, restaurants and stores to grab a more substantial lunch  
+
+You can work as late as 2.00am, or head home a little earlier to catch up on some sleep
+
+## Sunday June 5th
+
+* 8.00 – 13.00 Coding continues
+* 13.00 Time to down tools
+* 13.30 – 14.30 All projects get 3 minutes to present their work to all (and the judges)
+* 14.30 – 15.00 Judges deliberate
+* 15.00 – 15.30 Awards and prizes
+* 15.30 onwards - come share a drink nearby at the Hotel Hotham to unwind
