@@ -1,12 +1,21 @@
 Title: RHoK Melbourne
 Link text: Home
 
+# Welcome to RHoK Melbourne
+
 Enter Random Hacks of Kindness Melbourne and join other experts in design and development and volunteers with a broad set of skills in software development and design. The goal is to produce practical open source solutions to development problems related to disaster risk, major crisis (like bushfires, floods and earthquakes), and the challenges of climate change.
 
+<img src="/attachments/Slide9.jpeg" alt="Resilience iPhone"/>
+
 # RHoK #5
+RHoK #5 is approaching fast. You can sign up to the event here:
+
+* [Eventbrite](http://www.eventbrite.com/event/6545460649/eorg "Eventbrite")  
+* [Meetup](http://meetup.com/ "Meetup")
+
 Here's an outline of how RHOK Melbourne will run. We'll clear as much time for actual development, and keep the speechifying and admin to a bare minimum.
 
-## Saturday June 4
+## Saturday June 1st
 
 * 9.00 – 9.30 Get set up, and ready for 2 great days
 * 9.30 – 9.45 Welcome and administrivia
@@ -19,7 +28,7 @@ We'll have light snacks, fruit, drinks and the like on hand to keep your blood s
 
 You can work as late as 2.00am, or head home a little earlier to catch up on some sleep
 
-## Sunday June 5th
+## Sunday June 2nd
 
 * 8.00 – 13.00 Coding continues
 * 13.00 Time to down tools

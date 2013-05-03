@@ -2,14 +2,26 @@ Categories: problems
 Summary: Problems that are currently being worked on from past RHoK events
 Read more: Show me more
 
-# Fire plan
+# Current projects
 
-# FGIS
+These projects are currently being developed as a result of past RHoK weekends.
 
-# Resilience
+## Fire plan
 
-# Warrandyte fire rating...
+## FGIS
 
-#...
+## Resilience
+Resilience is a mobile application that allows users to report community issues and infrastructure damage to other residents in their area after a major disaster or crisis.
+
+<img src="/attachments/iOS-Creatives-MapView.png" alt="Resilience iPhone"/>
+
+**The codes**  
+[iPhone client](https://github.com/DiUS/resilience-ios"iPhone client")  
+[Android](https://github.com/DiUS/resilience-android"Android")  
+[Sinatra server](https://github.com/DiUS/resilience-server-open311 "Sinatra server")  
+  
+## Be ready Warrandyte
+
+## ...
 
 
