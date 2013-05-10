@@ -6,6 +6,9 @@ Read more: Show me more
 
 These projects are currently being developed as a result of past RHoK weekends.
 
+## RHoK Melbourne website
+[Problem definition](http://www.rhok.org/problems/universal-emergency-response-management)  
+
 ## Fire plan
 
 ## FGIS
