@@ -5,13 +5,12 @@ Link text: Home
 
 Enter Random Hacks of Kindness Melbourne and join other experts in design and development and volunteers with a broad set of skills in software development and design. The goal is to produce practical open source solutions to development problems related to disaster risk, major crisis (like bushfires, floods and earthquakes), and the challenges of climate change.
 
-<img src="/attachments/Slide9.jpeg" alt="Resilience iPhone"/>
+# RHoK #5 - 1st & 2nd of June
+RHoK #5 is approaching fast. You can [sign up to the event via Eventbrite](http://www.eventbrite.com/event/6545460649/eorg "Eventbrite")  
 
-# RHoK #5
-RHoK #5 is approaching fast. You can sign up to the event here:
+RHoK Melbourne will be located at Swinburne University Hawthorn, in the TD building.
 
-* [Eventbrite](http://www.eventbrite.com/event/6545460649/eorg "Eventbrite")  
-* [Meetup](http://meetup.com/ "Meetup")
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;ll=-37.820136,145.03899&amp;spn=0,0&amp;t=m&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;ll=-37.820136,145.03899&amp;spn=0,0&amp;t=m&amp;source=embed" style="color:#0000FF;text-align:left">TD Building, Swinburne University</a> in a larger map</small> 
 
 Here's an outline of how RHOK Melbourne will run. We'll clear as much time for actual development, and keep the speechifying and admin to a bare minimum.
 
