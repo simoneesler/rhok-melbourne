@@ -9,7 +9,7 @@ Here are the problems we will be being worked on at the next RHoK weekend in Jun
 ### RHoK Melbourne website
 Rebuilding this website!  This is a new website that is currently under construction.  We'd like to dedication some time to creating a really engaging and user-friendly RHoK Melbourne Website so that people can learn about all the great work that the RHoK volunteers are doing.
 
-[Problem definition](http://www.rhok.org/problems/universal-emergency-response-management)  
+[Problem definition](http://www.rhok.org/problems/rhok-melbourne-website)  
 
 ### Automated Bushfire Survival Plan Application
 
