@@ -3,12 +3,18 @@ Link text: Home
 
 # Welcome to RHoK Melbourne
 
-Enter Random Hacks of Kindness Melbourne and join other experts in design and development and volunteers with a broad set of skills in software development and design. The goal is to produce practical open source solutions to development problems related to disaster risk, major crisis (like bushfires, floods and earthquakes), and the challenges of climate change.
+Enter Random Hacks of Kindness Melbourne (RHoK) and join other experts in design and development and volunteers with a broad set of skills. The goal is to produce practical open source solutions to development problems related to disaster risk, major crisis (like bushfires, floods and earthquakes), and the challenges of climate change.
 
-# RHoK #5 - 1st & 2nd of June
-RHoK #5 is approaching fast. You can [sign up to the event via Eventbrite](http://www.eventbrite.com/event/6545460649/eorg "Eventbrite")  
+# What is RHoK?
 
-RHoK Melbourne will be located at Swinburne University Hawthorn, in the TD building.
+RHoK is a global hackathon that takes part twice a year.  Since 2009, RHoK has been bringing together thousands of people around the world to create open solutions that can save lives and alleviate suffering. 
+RHoK Melbourne events encourage participants to develop solutions that can be used, in particular, to help people prepare for and respond to natural disasters.
+Melbourne is again taking part in the next global RHoK event in June this year.   
+
+# RHoK Global Hackathon - 1st & 2nd of June
+The next RHoK is approaching fast. You can [sign up to the event via Eventbrite](http://www.eventbrite.com/event/6545460649/eorg "Eventbrite")  
+
+RHoK Melbourne will be located at Swinburne University Hawthorn, in the TD building.  
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;ll=-37.820136,145.03899&amp;spn=0,0&amp;t=m&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?msa=0&amp;msid=206511071284224585948.0004dc661906faf49b896&amp;ie=UTF8&amp;ll=-37.820136,145.03899&amp;spn=0,0&amp;t=m&amp;source=embed" style="color:#0000FF;text-align:left">TD Building, Swinburne University</a> in a larger map</small> 
 
@@ -23,15 +29,15 @@ Here's an outline of how RHOK Melbourne will run. We'll clear as much time for a
 * 19.00 – 20.00 Dinner (on us)
 * 20.00 – 02.00 more time to design and develop
 
-We'll have light snacks, fruit, drinks and the like on hand to keep your blood sugar levels up. There are many great local cafes, restaurants and stores to grab a more substantial lunch  
+We'll have light snacks, fruit, drinks and the like on hand to keep your blood sugar levels up. There are many great local cafes, restaurants and stores around to grab a more substantial lunch  
 
 You can work as late as 2.00am, or head home a little earlier to catch up on some sleep
 
 ## Sunday June 2nd
 
 * 8.00 – 13.00 Coding continues
-* 13.00 Time to down tools
-* 13.30 – 14.30 All projects get 3 minutes to present their work to all (and the judges)
-* 14.30 – 15.00 Judges deliberate
-* 15.00 – 15.30 Awards and prizes
-* 15.30 onwards - come share a drink nearby at the Hotel Hotham to unwind
+* 14.00 Time to down tools
+* 14.30 – 15.30 All projects get 10 minutes to present their work to all (and the judges)
+* 15.30 – 16.00 Judges deliberate
+* 16.00 – 16.30 Awards and prizes
+* 16.30 onwards - come share a drink nearby at the Hotel Hotham to unwind
