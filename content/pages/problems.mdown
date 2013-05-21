@@ -57,7 +57,7 @@ Smart Giving is a platform where individuals, charities and businesses will  int
 
 Eaterprises is working to transform the way food is produced, sold, moved and eaten. They want it to be really easy for people to get great food from good farmers, to know what they’re getting and for the farmers to be well-rewarded for the work they do.
  
-They’re taking a long hard look at direct marketing and exchange systems, working on making them less time-consuming, more effective and straightforward for producers and vastly more accessible and convenient for local businesses and eaters. 
+They’re taking a long hard look at direct marketing and exchange systems, working on making them less time-consuming, more effective and straightforward for producers and vastly more accessible and convenient for local businesses and eaters. Eaterprises is already working with the Open Food Web Foundation.
  
 [Find out more](http://openfoodweb.org/foundation/)
 
