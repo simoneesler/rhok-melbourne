@@ -52,3 +52,12 @@ Our young people are typically avid internet and social media users. We need to 
 Smart Giving is a platform where individuals, charities and businesses will  interact and support each other. The aim is to develop a web App which will allow people to give anything they like e.g. time, skills or money and get rewarded for social giving. 
 
 [Find out more](http://www.rhok.org/problems/smart-giving-social-network-social-giving) 
+
+### Eaterprises - Connecting Farmers and Eaters
+
+Eaterprises is working to transform the way food is produced, sold, moved and eaten. They want it to be really easy for people to get great food from good farmers, to know what they’re getting and for the farmers to be well-rewarded for the work they do.
+ 
+They’re taking a long hard look at direct marketing and exchange systems, working on making them less time-consuming, more effective and straightforward for producers and vastly more accessible and convenient for local businesses and eaters. 
+ 
+More to come on this challeng soon!!
+
