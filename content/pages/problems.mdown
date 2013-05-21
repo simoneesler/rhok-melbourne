@@ -46,3 +46,9 @@ We need to inspire these youth to get involved in bushfire planning - make their
 Our young people are typically avid internet and social media users. We need to develop a way of engaging with young people online in the high risk bushfire areas to get them bushfire prepared and potentially save their lives.
 
 [Problem definition](http://www.rhok.org/problems/engaging-youth-get-them-bushfire-prepared)  
+
+### Smartgiving - The Social Network for Social Giving
+
+Smart Giving is a platform where individuals, charities and businesses will  interact and support each other. We are aiming to develop a web App which will allow people to give any thing they like e.g. time, skills or money and get rewarded for social giving. We are gamifying the concept of giving and making it fun. Our members will earn Joys (points) for whatever they give, which can be converted into cash back discounts offered by our business members. Its simple, we are part of nature and it has a simple rule, more we give the more we get. 
+
+[Problem definition](http://www.rhok.org/problems/smart-giving-social-network-social-giving) 
