@@ -4,7 +4,7 @@ Read more: Show me more
 
 # Projects we are working on
 
-Here are the problems we worked on at the last global RHoK weekend in June.  Many of these are now being worked on as part of our RHoK n RHoll program - where we keep up the momentum on what was started at the global hackathon weekends.  The best way to stay up to date with our RHoK n RHoll sessions, sign up to our meetup page.
+Here are the problems we worked on at the last global RHoK weekend in June.  Many of these are now being worked on as part of our RHoK n RHoll program, which is where we keep up the momentum on what was started at the global hackathon weekends.  The best way to stay up to date with our RHoK n RHoll sessions is to sign up to our <a href="http://www.meetup.com/Random-Hacks-of-Kindness-Melbourne">Meetup group</a> page.
 
 ### RHoK Melbourne website
 Rebuilding this website!  This is a new website that is currently under construction.  We'd like to dedication some time to creating a really engaging and user-friendly RHoK Melbourne Website so that people can learn about all the great work that the RHoK volunteers are doing.
