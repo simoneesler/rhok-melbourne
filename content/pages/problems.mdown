@@ -2,9 +2,9 @@ Categories: problems
 Summary: Problems that are currently being worked on from past RHoK events
 Read more: Show me more
 
-# Current projects
+# Projects we are working on
 
-Here are the problems we will be being worked on at the next RHoK weekend in June.
+Here are the problems we worked on at the last global RHoK weekend in June.
 
 ### RHoK Melbourne website
 Rebuilding this website!  This is a new website that is currently under construction.  We'd like to dedication some time to creating a really engaging and user-friendly RHoK Melbourne Website so that people can learn about all the great work that the RHoK volunteers are doing.
